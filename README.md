@@ -1,4 +1,4 @@
-This java Spring Boot project in sprepared by me for Paurus, for internal use only.
+This java Spring Boot project is prepared by me for Paurus, for internal use only.
 Content: "Task 1", REST web service, there are study Classes and Students that can enroll to Classes.
 Spring security is used for user Authentication and Authorization and hashed passwords are saved to databes.
 
