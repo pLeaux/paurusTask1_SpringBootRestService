@@ -5,11 +5,11 @@ Spring security is used for user Authentication and Authorization and hashed pas
 Instructions for testing: 
 
 1.DB server: use mySQL server, just create DB schema; tables are created by Application (file InitDbData.java) <br>
-2.download project files (src folder + pom.xml) as ZIP and unzip it to project folder
-3.Open project in IDE. I used Spring Boot Toolsuite - if you use Eclipse, than instal Spring Boot plugin 
- (I installed "Spring Tools 4 for Spring Boot")
-4.Open project file config.properties and adjust parameters for database connection
-5.Start project as "Spring Boot application"
+2.download project files (src folder + pom.xml) as ZIP and unzip it to project folder<br>
+3.Open project in IDE. I used Spring Boot Toolsuite - if you use Eclipse, than instal Spring Boot plugin <br>
+ (I installed "Spring Tools 4 for Spring Boot")<br>
+4.Open project file config.properties and adjust parameters for database connection<br>
+5.Start project as "Spring Boot application"<br>
 
 Test web service methods with Postman:
 
